@@ -1,5 +1,6 @@
 package br.com.letscode.alunos.model;
 // teste1
+// teste2
 public class Aluno {
     private String nome;
     private Integer idade;
