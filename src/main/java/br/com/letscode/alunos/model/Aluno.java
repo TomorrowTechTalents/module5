@@ -1,6 +1,7 @@
 package br.com.letscode.alunos.model;
 // teste1
 // teste2
+// teste 3 - modificando o branchteste2 depois que branchteste2 foi mergeado dentro de branchteste1
 public class Aluno {
     private String nome;
     private Integer idade;
